@@ -32,5 +32,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'jekyll-octicons'
 
 gem "commonmarker", ">= 0.23.4"
+gem "kramdown", ">= 2.3.1"
 
 
